@@ -9,4 +9,3 @@ node_modules/
 #Configuration related files
 client/.env.local
 server/config/config.js
->>>>>>> 1c306b9... Delete Config files
