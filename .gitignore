@@ -6,9 +6,7 @@ node_modules/
 
 .idea/**/tasks.xml
 
-# Configuration file
-server/config/config.js
+#Configuration related files
 client/.env.local
-
-#cache
-client/.eslintcache
+server/config/config.js
+>>>>>>> 1c306b9... Delete Config files
